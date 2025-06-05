@@ -1,1 +1,2 @@
-python3 -m pip install --extra-index-url https://PySimpleGUI.net/install PySimpleGUI
+--extra-index-url https://PySimpleGUI.net/install PySimpleGUI
+
